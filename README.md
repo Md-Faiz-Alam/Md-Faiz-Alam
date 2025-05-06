@@ -1,55 +1,81 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+<h1 align="center">Hi 👋, I'm Faiz</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | 🧠 AI/ML Enthusiast | 💻 BCA Student</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 🧩 About Me
 
-<h1 align="center">hey there 👋</h1>
+- 🎓 I'm a 2nd-year BCA student with a passion for Data Science and AI.
+- 🔭 Currently working on **Breast Cancer Detection** using ML + Flask.
+- 🌱 Exploring **NLP, SVM, Naïve Bayes, Deep Learning**, and more.
+- 📌 Preparing for interviews at **top companies** like Google, Razorpay, Zomato.
+- 💬 Ask me about **Machine Learning, Python, or building ML projects**.
+- 📫 How to reach me: `your.email@example.com`
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🧰 Tech Stack
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4062A1?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-191970?style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter)
 
-<p align="left">I'm Md Faiz Alam from Bihar <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+### 🧪 Current Projects
 
-<h3 align="left">🛠 python , mySql , Numpy , panda</h3>
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧬 [Breast Cancer Detection](https://github.com/yourusername/breast-cancer-detection) | Classifies tumors as malignant or benign using ML | `Logistic Regression`, `Pandas`, `Sklearn`, `Flask` |
+| 🌸 [Iris Flower Classification](https://github.com/yourusername/iris-classification) | Classifies iris flowers using multiple ML models | `SVM`, `KNN`, `Matplotlib` |
+| 🍷 [Wine Quality Prediction](https://github.com/yourusername/wine-quality-prediction) | Predicts wine quality based on physicochemical data | `Naïve Bayes`, `Seaborn`, `Scikit-learn` |
+| 📰 [20 Newsgroups Classifier](https://github.com/yourusername/text-classification-naive-bayes) | Classifies news articles with NLP | `TextVectorization`, `Naïve Bayes`, `NLP` |
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
 
-###
+---
+
+### 🧠 Learning Goals 2025
+
+- Mastering **Model Interpretability** (SHAP, LIME)
+- Building **End-to-End AI Products**
+- Getting **internship-ready** by December 2025
+- Learning **Deployment** using Streamlit, Docker & Cloud
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/alammdfaiz/))
+[![Mail](https://img.shields.io/badge/Email-SendMail-red?style=flat&logo=gmail)](mailto:mdfaiz3388@gmail.com)
+
+---
+
+### 🔥 Quote I Live By
+
+> _"You don't have to be great to start. But you have to start to be great."_ — Zig Ziglar
+
+---
+
+
