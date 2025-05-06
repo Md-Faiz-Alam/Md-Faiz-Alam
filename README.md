@@ -12,7 +12,7 @@
 - 🎓 I'm a 2nd-year BCA student with a passion for Data Science and AI.
 - 🔭 Currently working on **Breast Cancer Detection** using ML + Flask.
 - 🌱 Exploring **NLP, SVM, Naïve Bayes, Deep Learning**, and more.
-- 📌 Preparing for interviews at **top companies** like Google, Razorpay, Zomato.
+- 📌 Preparing for interviews at **companies** like Google, Razorpay, Zomato.
 - 💬 Ask me about **Machine Learning, Python, or building ML projects**.
 - 📫 How to reach me: `your.email@example.com`
 
@@ -37,37 +37,20 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🧬 [Breast Cancer Detection](https://github.com/yourusername/breast-cancer-detection) | Classifies tumors as malignant or benign using ML | `Logistic Regression`, `Pandas`, `Sklearn`, `Flask` |
-| 🌸 [Iris Flower Classification](https://github.com/yourusername/iris-classification) | Classifies iris flowers using multiple ML models | `SVM`, `KNN`, `Matplotlib` |
-| 🍷 [Wine Quality Prediction](https://github.com/yourusername/wine-quality-prediction) | Predicts wine quality based on physicochemical data | `Naïve Bayes`, `Seaborn`, `Scikit-learn` |
-| 📰 [20 Newsgroups Classifier](https://github.com/yourusername/text-classification-naive-bayes) | Classifies news articles with NLP | `TextVectorization`, `Naïve Bayes`, `NLP` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🧠 Learning Goals 2025
 
 - Mastering **Model Interpretability** (SHAP, LIME)
 - Building **End-to-End AI Products**
-- Getting **internship-ready** by December 2025
+- Getting **job-ready** by December 2025
 - Learning **Deployment** using Streamlit, Docker & Cloud
 
 ---
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/alammdfaiz/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alammdfaiz/)
 [![Mail](https://img.shields.io/badge/Email-SendMail-red?style=flat&logo=gmail)](mailto:mdfaiz3388@gmail.com)
 
 ---
