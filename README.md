@@ -6,7 +6,7 @@
 ### 🧩 About Me
 
 - 🎓 I'm a 2nd-year BCA student with a passion for Data Science and AI.
-- 🔭 Currently working on **Breast Cancer Detection** using ML + Flask.
+- 🔭 Currently experimenting with ML models and turning ideas into interactive AI-powered web apps.
 - 🌱 Exploring **NLP, SVM, Naïve Bayes, Deep Learning**, and more.
 - 📌 Preparing for interviews at **companies** like Google, Razorpay, Zomato.
 - 💬 Ask me about **Machine Learning, Python, or building ML projects**.
