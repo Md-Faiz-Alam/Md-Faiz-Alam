@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiz</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | 🧠 AI/ML Enthusiast | 💻 BCA Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
 ---
 
 ### 🧩 About Me
@@ -14,7 +10,7 @@
 - 🌱 Exploring **NLP, SVM, Naïve Bayes, Deep Learning**, and more.
 - 📌 Preparing for interviews at **companies** like Google, Razorpay, Zomato.
 - 💬 Ask me about **Machine Learning, Python, or building ML projects**.
-- 📫 How to reach me: `your.email@example.com`
+- 📫 How to reach me: `mdfaiz3388@gmail.com`
 
 ---
 
